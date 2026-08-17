@@ -25,39 +25,53 @@ Ich entwickle Softwarelösungen, Apps, Lernplattformen und KI-gestützte Tools m
 
 App für kognitives Training auf iPhone und iPad mit Übungen für Reaktion, Aufmerksamkeit und weitere kognitive Fähigkeiten.
 
-**Swift · SwiftUI · SwiftData · iOS · iPadOS**
+**Status:** In Entwicklung  
+**Stack:** Swift · SwiftUI · SwiftData  
+**Plattform:** iOS · iPadOS
+
+---
 
 ### 🎓 kainerOS
 
 Lernplattform für Fachinformatiker in Anwendungsentwicklung und Systemintegration mit Lernmodulen, Coding-Aufgaben und praktischen Entwicklerwerkzeugen.
 
-**TypeScript · Next.js · PostgreSQL · Docker**
+**Status:** In Entwicklung  
+**Stack:** TypeScript · Next.js · PostgreSQL · Docker
+
+---
 
 ### 🏗️ Bau- und Projektplattform
 
 Software für Projektorganisation, Baustellen, Pläne, Aufgaben, Dokumentation, Personal und Einsatzplanung.
 
-Der endgültige Produktname befindet sich noch in Entwicklung.
+**Status:** Produktname in Entwicklung  
+**Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Docker
 
-**Next.js · TypeScript · PostgreSQL · Prisma · Docker**
+---
 
 ### 💳 Blockchain-Data
 
 Wallet-Plattform aus physischer Karte, Mobile App und Weboberfläche zur Verwaltung digitaler Assets.
 
-**Mobile · Web · Blockchain**
+**Status:** In Entwicklung  
+**Plattform:** Mobile · Web  
+**Bereich:** Blockchain
+
+---
 
 ### ⚖️ Aktenlage
 
 KI-unterstützte Software für Kanzleien und juristische Arbeitsabläufe. Vorgesehen für Dokumentenanalyse, Vertragsprüfung, strukturierte Fallinformationen und KI-gestützte Bearbeitung.
 
-**🚧 In Arbeit**
+**Status:** 🚧 In Arbeit
+
+---
 
 ### 🦷 Sulkus
 
 Digitale Software für Zahnarztpraxen mit Schwerpunkt auf Befundaufnahme, Zahnstatus, Prophylaxe und parodontaler Dokumentation.
 
-**🚧 In Arbeit**
+**Status:** 🚧 In Arbeit
 
 ---
 
