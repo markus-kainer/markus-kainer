@@ -13,18 +13,18 @@ Mein Schwerpunkt liegt auf eigenen Softwareprodukten für Web, iOS und Android s
 
 ## 🚀 Aktueller Fokus
 
-- 🔭 Entwicklung mehrerer eigener Softwareprodukte für Web, iOS, iPadOS und Android
-- 🧠 Entwicklung von **SYNSIQ** für kognitives Training und Leistungsentwicklung
-- 🏗️ Entwicklung von **EIC+** als umfangreiche Plattform für Projektmanagement, Baustellen und betriebliche Abläufe
-- 🎓 Ausbau von **Kainer OS** als Lern- und Entwicklungsplattform für Fachinformatik und Softwareentwicklung
-- ⚖️ Entwicklung von **Recht Plus** für juristische Dokumente, Vertragsprüfung und KI-gestützte Arbeitsabläufe
-- 💳 Entwicklung von **Blockchain Data** als Verbindung aus physischer Karte, Mobile App und Webplattform
-- 🦷 Entwicklung von **Sulkus** für digitale Prozesse in Zahnarztpraxen
-- 🤖 Integration von KI in bestehende Anwendungen und professionelle Arbeitsabläufe
-- 🔄 Entwicklung von Offline-, Synchronisations- und Multi-Device-Konzepten
-- 🐳 Betrieb eigener Anwendungen mit Docker, PostgreSQL und VPS-Infrastruktur
-- 🧩 Beschäftigung mit Softwarearchitektur, Datenmodellen, APIs und skalierbaren Anwendungssystemen
-- 🎨 Entwicklung moderner, responsiver Benutzeroberflächen für Desktop, Tablet und Smartphone
+-  Entwicklung mehrerer eigener Softwareprodukte für Web, iOS, iPadOS und Android
+-  Entwicklung von **SYNSIQ** für kognitives Training und Leistungsentwicklung
+-  Entwicklung von **EIC+** als umfangreiche Plattform für Projektmanagement, Baustellen und betriebliche Abläufe
+-  Ausbau von **Kainer OS** als Lern- und Entwicklungsplattform für Fachinformatik und Softwareentwicklung
+-  Entwicklung von **Recht Plus** für juristische Dokumente, Vertragsprüfung und KI-gestützte Arbeitsabläufe
+-  Entwicklung von **Blockchain Data** als Verbindung aus physischer Karte, Mobile App und Webplattform
+-  Entwicklung von **Sulkus** für digitale Prozesse in Zahnarztpraxen
+-  Integration von KI in bestehende Anwendungen und professionelle Arbeitsabläufe
+-  Entwicklung von Offline-, Synchronisations- und Multi-Device-Konzepten
+-  Betrieb eigener Anwendungen mit Docker, PostgreSQL und VPS-Infrastruktur
+-  Beschäftigung mit Softwarearchitektur, Datenmodellen, APIs und skalierbaren Anwendungssystemen
+-  Entwicklung moderner, responsiver Benutzeroberflächen für Desktop, Tablet und Smartphone
 
 ---
 
@@ -38,17 +38,17 @@ SYNSIQ kombiniert verschiedene Trainingsformen für Reaktion, Aufmerksamkeit und
 
 ### Funktionen
 
-- ⚡ Reaktionsübungen
-- 👁️ Aufmerksamkeits- und Wahrnehmungstraining
-- 🎯 Multiple-Object-Tracking
-- 🎧 Audio-Reaktion
-- 📊 Leistungswerte und Auswertungen
-- 📈 Entwicklungsverlauf
-- 🧪 Baseline-Ermittlung
-- 👤 Benutzerprofile
-- 🔐 Authentifizierung
-- ☁️ Synchronisierung
-- 📱 native iOS- und iPadOS-Oberfläche
+-  Reaktionsübungen
+-  Aufmerksamkeits- und Wahrnehmungstraining
+-  Multiple-Object-Tracking
+-  Audio-Reaktion
+-  Leistungswerte und Auswertungen
+-  Entwicklungsverlauf
+-  Baseline-Ermittlung
+-  Benutzerprofile
+-  Authentifizierung
+-  Synchronisierung
+-  native iOS- und iPadOS-Oberfläche
 
 **Status:** 🚧 In Entwicklung / TestFlight  
 **Stack:** Swift · SwiftUI · SwiftData  
@@ -66,28 +66,28 @@ Die Anwendung verbindet Projektleitung, Mitarbeiter, Planung, Dokumentation und 
 
 ### Funktionen
 
-- 📁 Projektverwaltung
-- 📝 Aufgaben
-- ⚠️ Mängelmanagement
-- 🗺️ digitale Pläne
-- 📍 Plan-Pins
-- 📸 Fotos und Projektdokumentation
-- ⏱️ Zeiterfassung
-- 👷 Mitarbeiterverwaltung
-- 🚚 Einsatzplanung
-- 📅 Wochenplanung
-- 👥 Montageteams
-- 🚗 Fahrzeugzuordnung
-- 🏢 Bereiche und Abteilungen
-- 📋 Bautagebuch
-- 📄 Berichte
-- 🧱 Baustellenorganisation
-- 🔎 Projektübersichten
-- 📱 Mobile App
-- 💻 Weboberfläche
-- 🔄 Synchronisierung zwischen Geräten
-- 📡 Offline-Nutzung für mobile Baustelleneinsätze
-- 🗄️ zentrale Projektdaten
+-  Projektverwaltung
+-  Aufgaben
+-  Mängelmanagement
+-  digitale Pläne
+-  Plan-Pins
+-  Fotos und Projektdokumentation
+-  Zeiterfassung
+-  Mitarbeiterverwaltung
+-  Einsatzplanung
+-  Wochenplanung
+-  Montageteams
+-  Fahrzeugzuordnung
+-  Bereiche und Abteilungen
+-  Bautagebuch
+-  Berichte
+-  Baustellenorganisation
+-  Projektübersichten
+-  Mobile App
+-  Weboberfläche
+-  Synchronisierung zwischen Geräten
+-  Offline-Nutzung für mobile Baustelleneinsätze
+-  zentrale Projektdaten
 
 **Status:** 🚧 Aktive Entwicklung  
 **Stack:** Next.js · TypeScript · React · PostgreSQL · Prisma · Docker  
@@ -103,18 +103,18 @@ Kainer OS verbindet Lerninhalte mit praktischen Übungen, Entwicklerwerkzeugen u
 
 ### Inhalte & Funktionen
 
-- 💻 Programmieraufgaben
-- 🧠 Lernmodule
-- 🧩 Logik- und Algorithmusaufgaben
-- 🗄️ Datenbanken und SQL
-- 🌐 Netzwerke
-- 🖥️ Betriebssysteme
-- 🛠️ Entwicklerwerkzeuge
-- 📡 Systemintegration
-- 🧪 praktische Übungen
-- 📊 Lernfortschritt
-- 📝 Aufgabenverwaltung
-- 🖥️ Terminal- und Entwicklungsumgebung
+-  Programmieraufgaben
+-  Lernmodule
+-  Logik- und Algorithmusaufgaben
+-  Datenbanken und SQL
+-  Netzwerke
+-  Betriebssysteme
+-  Entwicklerwerkzeuge
+-  Systemintegration
+-  praktische Übungen
+-  Lernfortschritt
+-  Aufgabenverwaltung
+-  Terminal- und Entwicklungsumgebung
 
 **Status:** 🚧 In Entwicklung  
 **Stack:** TypeScript · Next.js · React · PostgreSQL · Docker  
@@ -132,18 +132,18 @@ Der Schwerpunkt liegt auf der strukturierten Verarbeitung von Dokumenten, Vertra
 
 ### Funktionen
 
-- 📄 Dokumentenverwaltung
-- 🔍 Vertragsprüfung
-- 🤖 KI-gestützte Dokumentenanalyse
-- 📋 strukturierte Fallinformationen
-- ⏰ Fristen
-- 🧾 Vorlagen
-- 🔎 Prüfung von Klauseln
-- 💡 Änderungsvorschläge
-- ✍️ Übernahme von Änderungen in Dokumente
-- 🗂️ strukturierte Akten
-- 📊 übersichtliche Befunde
-- 🔐 professionelle Arbeitsabläufe
+-  Dokumentenverwaltung
+-  Vertragsprüfung
+-  KI-gestützte Dokumentenanalyse
+-  strukturierte Fallinformationen
+-  Fristen
+-  Vorlagen
+-  Prüfung von Klauseln
+-  Änderungsvorschläge
+-  Übernahme von Änderungen in Dokumente
+-  strukturierte Akten
+-  übersichtliche Befunde
+-  professionelle Arbeitsabläufe
 
 **Status:** 🚧 In Entwicklung  
 **Bereich:** Legal Tech · AI  
@@ -159,15 +159,15 @@ Ziel ist eine übersichtliche und moderne Plattform zur Verwaltung digitaler Ass
 
 ### Konzept
 
-- 💳 physische Karte
-- 📱 Mobile App
-- 💻 Weboberfläche
-- 🔐 Self-Custody
-- 🔑 Wallet-Verwaltung
-- 📊 Übersicht digitaler Assets
-- 🔄 Synchronisierung
-- 🛡️ Sicherheitskonzepte
-- 🌐 Blockchain-Anbindung
+-  physische Karte
+-  Mobile App
+-  Weboberfläche
+-  Self-Custody
+-  Wallet-Verwaltung
+-  Übersicht digitaler Assets
+-  Synchronisierung
+-  Sicherheitskonzepte
+-  Blockchain-Anbindung
 
 **Status:** 🚧 In Entwicklung  
 **Plattform:** Mobile · Web  
@@ -183,15 +183,15 @@ Sulkus soll die Erfassung und Darstellung zahnmedizinischer Befunde vereinfachen
 
 ### Funktionen
 
-- 🦷 Zahnstatus
-- 📋 Befundaufnahme
-- 🪥 Prophylaxe
-- 📊 parodontale Dokumentation
-- 📈 Verlauf
-- 🗣️ sprachgestützte Eingabe
-- 🧾 strukturierte Patientendaten
-- 💻 Weboberfläche
-- 📱 mobile Nutzung
+-  Zahnstatus
+-  Befundaufnahme
+-  Prophylaxe
+-  parodontale Dokumentation
+-  Verlauf
+-  sprachgestützte Eingabe
+-  strukturierte Patientendaten
+-  Weboberfläche
+-  mobile Nutzung
 
 **Status:** 🚧 In Entwicklung  
 **Bereich:** Dental Software · Health Software
@@ -269,58 +269,58 @@ Sulkus soll die Erfassung und Darstellung zahnmedizinischer Befunde vereinfachen
 
 ## 🤖 AI & Developer Tools
 
-- 🤖 KI-gestützte Anwendungen
-- 🧠 AI Agents
-- 🔗 Agent Workflows
-- 📚 Wissensgraphen
-- 🧩 Kontextbasierte Softwareentwicklung
-- 🔍 Codeanalyse
-- ⚙️ Automatisierung
-- 🧪 automatisierte Tests
-- 🌐 Browser-Automation
-- 📝 KI-gestützte Dokumentenverarbeitung
+-  KI-gestützte Anwendungen
+-  AI Agents
+-  Agent Workflows
+-  Wissensgraphen
+-  Kontextbasierte Softwareentwicklung
+-  Codeanalyse
+-  Automatisierung
+-  automatisierte Tests
+-  Browser-Automation
+-  KI-gestützte Dokumentenverarbeitung
 
 ---
 
 # 🧰 Tools & Entwicklungsumgebung
 
-- 🖥️ macOS
-- 🐧 Ubuntu / Linux
-- 🧑‍💻 PhpStorm
-- 🍎 Xcode
-- 🐳 Docker
-- 🗄️ PostgreSQL
-- 🔧 Git & GitHub
-- 🧪 Playwright
-- 📦 npm
-- 🌐 Next.js
-- 📱 TestFlight
-- ☁️ Supabase
-- 🖧 VPS-Infrastruktur
+-  macOS
+-  Ubuntu / Linux
+-  PhpStorm
+-  Xcode
+-  Docker
+-  PostgreSQL
+-  Git & GitHub
+-  Playwright
+-  npm
+-  Next.js
+-  TestFlight
+-  Supabase
+-  VPS-Infrastruktur
 
 ---
 
 # 🧠 Themen, mit denen ich mich beschäftige
 
-- 🤖 Künstliche Intelligenz
-- 🧠 Agenten-Systeme
-- 🧩 Softwarearchitektur
-- 🗄️ Datenmodellierung
-- 🎨 UI / UX
-- 📱 Mobile Apps
-- 🌐 Webanwendungen
-- 🔄 Offline-First-Systeme
-- ☁️ Synchronisierung
-- 🐳 Containerisierung
-- 🖧 Server-Infrastruktur
-- 📊 Datenanalyse
-- 🔐 Sicherheit
-- 💳 Blockchain
-- 🔑 Wallet-Technologien
-- 🏗️ Digitalisierung von Arbeitsabläufen
-- ⚖️ Legal Tech
-- 🦷 Dental Software
-- 🧠 Cognitive Training
+-  Künstliche Intelligenz
+-  Agenten-Systeme
+-  Softwarearchitektur
+-  Datenmodellierung
+-  UI / UX
+-  Mobile Apps
+-  Webanwendungen
+-  Offline-First-Systeme
+-  Synchronisierung
+-  Containerisierung
+-  Server-Infrastruktur
+-  Datenanalyse
+-  Sicherheit
+-  Blockchain
+-  Wallet-Technologien
+-  Digitalisierung von Arbeitsabläufen
+-  Legal Tech
+-  Dental Software
+-  Cognitive Training
 
 ---
 
@@ -330,36 +330,36 @@ Bei meinen Projekten stehen nicht einzelne Technologien im Vordergrund, sondern 
 
 Wichtig sind für mich:
 
-- 🧩 nachvollziehbare Softwarearchitektur
-- 🎨 klare Benutzeroberflächen
-- 📱 gute Bedienbarkeit auf allen Geräten
-- ⚡ schnelle Anwendungen
-- 🔄 zuverlässige Synchronisierung
-- 📡 Offline-Fähigkeit, wenn sie praktisch notwendig ist
-- 🗄️ saubere Datenmodelle
-- 🔐 kontrollierter Umgang mit Daten
-- 🧪 automatisierte Tests
-- 🐳 reproduzierbare Deployments
-- 🛠️ praktische Funktionen statt reiner Demonstrationen
+-  nachvollziehbare Softwarearchitektur
+-  klare Benutzeroberflächen
+-  gute Bedienbarkeit auf allen Geräten
+-  schnelle Anwendungen
+-  zuverlässige Synchronisierung
+-  Offline-Fähigkeit, wenn sie praktisch notwendig ist
+-  saubere Datenmodelle
+-  kontrollierter Umgang mit Daten
+-  automatisierte Tests
+-  reproduzierbare Deployments
+-  praktische Funktionen statt reiner Demonstrationen
 
 ---
 
 # 📌 Interessen
 
-- 🧠 Künstliche Intelligenz und Agenten-Systeme
-- 🧩 Softwarearchitektur und Anwendungslogik
-- 🎨 moderne Benutzeroberflächen und User Experience
-- 📱 App-Entwicklung
-- 🌐 Webentwicklung
-- 🛠️ Entwicklerwerkzeuge
-- 🔄 Offline- und Synchronisationssysteme
-- 🐧 Linux und Server-Infrastruktur
-- 🐳 Docker und Container
-- 🔐 Blockchain und Self-Custody
-- 💳 Wallets und digitale Assets
-- 🏗️ Digitalisierung realer Arbeitsprozesse
-- ⚖️ Legal Tech
-- 🦷 digitale Anwendungen im Dentalbereich
+-  Künstliche Intelligenz und Agenten-Systeme
+-  Softwarearchitektur und Anwendungslogik
+-  moderne Benutzeroberflächen und User Experience
+-  App-Entwicklung
+-  Webentwicklung
+-  Entwicklerwerkzeuge
+-  Offline- und Synchronisationssysteme
+-  Linux und Server-Infrastruktur
+-  Docker und Container
+-  Blockchain und Self-Custody
+-  Wallets und digitale Assets
+-  Digitalisierung realer Arbeitsprozesse
+-  Legal Tech
+-  digitale Anwendungen im Dentalbereich
 
 ---
 
