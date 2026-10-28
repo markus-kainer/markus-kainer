@@ -253,17 +253,17 @@ Sulkus soll die Erfassung und Darstellung zahnmedizinischer Befunde vereinfachen
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-- 🐧 Linux
-- 🐳 Docker
-- 🧱 Docker Compose
-- 🗄️ PostgreSQL
-- 🌐 VPS Hosting
-- 🔐 Reverse Proxy
-- 🌍 Domains & Subdomains
-- 🚀 Production Deployments
-- 🔄 Git-basierte Deployments
-- 📊 Health Checks
-- 📦 Containerisierte Anwendungen
+-  Linux
+-  Docker
+-  Docker Compose
+-  PostgreSQL
+-  VPS Hosting
+-  Reverse Proxy
+-  Domains & Subdomains
+-  Production Deployments
+-  Git-basierte Deployments
+-  Health Checks
+-  Containerisierte Anwendungen
 
 ---
 
